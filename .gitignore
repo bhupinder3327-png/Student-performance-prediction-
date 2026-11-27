@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Generated model
+models/*.pkl
+
+# Generated outputs
+outputs/*.csv
+outputs/*.png
+
+# Keep synthetic dataset if you want to upload it
+# data/student_data.csv
